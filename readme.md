@@ -4,18 +4,7 @@ This repository contains my complete learning and practice journey of Python bas
 
 ---
 
-## 📁 Folder Structure
-'''
-Module1_Python/
-├── practice/
-│ ├── movieslist.py # List, Tuple, Set, Dict exercises
-│ ├── file_handling_tasks.py # Read, write, append to files
-│ ├── set_challenge.py # Set-based unique number challenge
-│ └── address_book.py # Dictionary + input-based mini task
-│
-├── projects/
-│ └── todo.py # File-handling CLI To-Do List App
-'''
+<pre> ## 📁 Folder Structure ``` Module1_Python/ ├── practice/ │ ├── movieslist.py # List, Tuple, Set, Dict exercises │ ├── file_handling_tasks.py # Read, write, append to files │ ├── set_challenge.py # Set-based unique number challenge │ └── address_book.py # Dictionary + input-based mini task │ ├── projects/ │ └── todo.py # File-handling CLI To-Do List App ``` </pre>
 
 
 ## 🧠 Concepts Covered

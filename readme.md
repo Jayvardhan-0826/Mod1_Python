@@ -8,13 +8,13 @@ This repository contains my complete learning and practice journey of Python bas
 
 Module1_Python/
 ├── practice/
-│ ├── movieslist.py # List, Tuple, Set, Dict exercises
-│ ├── file_handling_tasks.py # Read, write, append to files
-│ ├── set_challenge.py # Set-based unique number challenge
-│ └── address_book.py # Dictionary + input-based mini task
+│ ├── movieslist.py
+│ ├── file_handling_tasks.py
+│ ├── set_challenge.py
+│ └── address_book.py
 │
 ├── projects/
-│ └── todo.py # File-handling CLI To-Do List App
+│ └── todo.py
 
 
 ## 🧠 Concepts Covered

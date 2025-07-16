@@ -80,3 +80,17 @@ I'm Jay, a final year B.Tech CSE (Data Science) student on a focused journey to 
 ## 🔗 Connect With Me
 
 - GitHub: [Jayvardhan-0826](https://github.com/Jayvardhan-0826)
+
+✅ Day 3: Python Functions + Problem Solving
+Learned how to define and call functions in Python
+
+Understood the difference between parameters and arguments
+
+Explored return values and scope (local/global)
+
+Practiced function-based modular coding
+
+📁 Built a mini-project: Student Management CLI App
+– Features: Add, View, and Search students using file handling
+– Files: student_manager.py, students.txt
+– Folder: Projects/student-app/
